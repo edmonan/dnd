@@ -1,43 +1,48 @@
 	{	"name": "",
 		"pro": "",
-		"src": "",
+		"src": [
+			{
+				"type": "",
+				"url": ""
+			}
+		],
 		"desc": "",
 		"size": "",
 		"type": "",
 		"tag": "",
 		"class": "",
 		"alignment": "",
-		"ac": "",
+		"ac": null,
 		"armor": [""],
 		"hp": {
-			"default": "",
-			"rolls": "",
-			"die": "",
-			"mod": ""
+			"default": null,
+			"rolls": null,
+			"die": null,
+			"mod": null
 		},
 		"speed": [
 			{
 				"type": "",
-				"distance": "",
+				"distance": null,
 				"notes": ""
 			}
 		],
-		"str": "",
-		"dex": "",
-		"con": "",
-		"int": "",
-		"wis": "",
-		"chr": "",
+		"str": null,
+		"dex": null,
+		"con": null,
+		"int": null,
+		"wis": null,
+		"chr": null,
 		"savingThrows": [
 			{
 				"attribute": "",
-				"mod": ""
+				"mod": null
 			}
 		],
 		"skills": [
 			{
 				"name": "",
-				"mod": ""
+				"mod": null
 			}
 		],
 		"damageVuln": [""],
@@ -50,33 +55,33 @@
 		"senses": [
 			{
 				"type": "",
-				"distance": "",
+				"distance": null,
 				"notes": ""
 			}
 		],
-		"passivePer": "",
+		"passivePer": null,
 		"languages": {
 			"speaks": [""],
 			"understands": [""]
 		},
-		"challengeRating": "",
+		"challengeRating": null,
 		"traits": [
 			{
 				"name": "",
-				"perDay": "",
+				"perDay": null,
 				"recharge": "",
-				"attackMod": "",
-				"default": "",
-				"rolls": "",
-				"die": "",
-				"mod": "",
+				"attackMod": null,
+				"default": null,
+				"rolls": null,
+				"die": null,
+				"mod": null,
 				"type": "",
 				"ability": "",
-				"dc": "",
+				"dc": null,
 				"spell": [
 					{
-						"level": "",
-						"rate": "",
+						"level": null,
+						"rate": null,
 						"span": "",
 						"titles": [""],
 						"notes": ""
@@ -88,21 +93,21 @@
 		"actions": [
 			{
 				"name": "",
-				"perDay": "",
+				"perDay": null,
 				"recharge": "",
 				"ability": "",
-				"dc": "",
-				"attackMod": "",
-				"targetNum": "",
+				"dc": null,
+				"attackMod": null,
+				"targetNum": null,
 				"weapon": [
 					{
 						"type": "",
-						"handed": "",
-						"reach": "",
-						"default": "",
-						"rolls": "",
-						"die": "",
-						"mod": "",
+						"handed": null,
+						"reach": [null],
+						"default": null,
+						"rolls": null,
+						"die": null,
+						"mod": null,
 						"damageType": "",
 						"notes": ""
 					}
@@ -124,8 +129,8 @@
 		],
 		"lair": {
 			"desc": "",
-			"initiative": "",
-			"actionDc": "",
+			"initiative": null,
+			"actionDc": null,
 			"actions": [""],
 			"restrictions": "",
 			"traits": [""]
@@ -133,8 +138,8 @@
 		"regional": {
 			"effects": [""],
 			"recovery": {
-				"rolls": "",
-				"die": "",
+				"rolls": null,
+				"die": null,
 				"unit": ""
 			}
 		}
